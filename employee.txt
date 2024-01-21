@@ -1,0 +1,14 @@
+Peter 30 1001 Apple 8000.00
+Joseph 50 1002 Oracle 4000.00
+Mary 40 1003 Samsung 6000.00
+Lilly 40 1203 Samsung 7000.00
+Tony 50 1002 Oracle 3000.00
+Banner 20 1004 Apple 3000.00
+Hank 60 1005 Samsung 6000.00
+Steve 70 1004 Oracle 8000.00
+Rajeev 20 1007 Apple 5000.00
+Suraj 40 1006 Samsung 2000.00
+
+Jhon 56 2005 Continental 50000.00
+
+bill 45 3003 buck 2345.00
